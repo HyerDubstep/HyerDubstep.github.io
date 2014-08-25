@@ -1,3 +1,15 @@
+body {
+	background-color: #585858;
+}
+
+a:visited {
+  color: #0489B1;
+}
+
+a:link {
+  color: #0489B1;
+}
+
 #indexHyerTitle {
 	text-align: center;
 	color: #01DFA5;
@@ -5,6 +17,18 @@
 }
 
 #websiteDev {
+	text-align: center;
+	color: red;
+	font-size: 400%;
+}
+
+#indexHyerContent {
+	text-align: right;
+	color: #086A87;
+	font-size: 200%;
+}
+
+#Four04 {
 	text-align: center;
 	color: red;
 	font-size: 400%;
