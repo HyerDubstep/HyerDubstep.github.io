@@ -16,16 +16,16 @@ a:link {
 	font-size: 500%;
 }
 
-#websiteDev {
-	text-align: center;
-	color: red;
-	font-size: 400%;
-}
-
 #indexHyerContent {
 	text-align: right;
 	color: #086A87;
 	font-size: 200%;
+}
+
+#indexHyerTitleBanner {
+	text-align: center;
+	color: #01DFD5;
+	font-size: 150%;
 }
 
 #Four04 {
